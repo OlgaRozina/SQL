@@ -1,5 +1,5 @@
 # SQL_HW_1
-##1. Create the 'employees' table:
+## 1. Create the 'employees' table:
 ```
 create table employees (
  id  serial primary key,
